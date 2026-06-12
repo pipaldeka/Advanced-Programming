@@ -1,0 +1,13 @@
+node_modules/
+.idea/
+.vscode/
+.gradle/
+build/
+dist/
+out/
+target/
+.expo/
+coverage/
+*.log
+*.iml
+.DS_Store
