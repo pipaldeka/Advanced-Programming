@@ -21,3 +21,18 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+
+node_modules/
+.idea/
+.vscode/
+.gradle/
+build/
+dist/
+out/
+target/
+bin/
+*.log
+*.apk
+*.iml
+.DS_Store
